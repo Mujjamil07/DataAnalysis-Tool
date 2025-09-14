@@ -183,5 +183,4 @@ dmypy.json
 .pyre/
 
 # Embedded git repositories
-AUTOSAAS/
 phase1_streamlit/.git/

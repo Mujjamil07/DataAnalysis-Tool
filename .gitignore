@@ -181,3 +181,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Embedded git repositories
+AUTOSAAS/
+phase1_streamlit/.git/
